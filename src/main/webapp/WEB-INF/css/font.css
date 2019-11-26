@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "PathwayGothicOne-Regular";
+    src: url("../font/PathwayGothicOne-Regular.ttf")format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+body {
+    font-family: PathwayGothicOne-Regular, sans-serif;
+}
